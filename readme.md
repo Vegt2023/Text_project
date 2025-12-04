@@ -34,7 +34,11 @@ Valid login credentials:
 
 Username	Password
 bob	123
+
 ann	pass123
+
 mike	password123
+
 liz	pass123
+
 If the username/password combination does not match any registered user, the program will terminate.
